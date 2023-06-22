@@ -1,0 +1,29 @@
+.container-1 {
+  background-color: #ffc2a0;
+  height: 800px;
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container-2 {
+  background-color: white;
+  border-radius: 10px;
+  width: 550px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #ff8542;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  text-align: center;
+}
+.ul-list {
+  list-style-type: none;
+  padding: 0px;
+}
